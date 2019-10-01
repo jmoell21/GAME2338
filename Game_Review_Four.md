@@ -23,7 +23,8 @@ those spots help the player by advancing them to a certain property, giving the 
 card. The other way those spot can sabotage the player is by making them pay money or sending them to jail, they're even other spot that make the
 player pay money for tax that then get added to themiddle of the board for players to obtain if they land on free parking.
 
-
+The other mechanic that is in monopoly is betting on property, which people don't do or don't notice this rule yet the game forces you to bid on the property when a player goes bankrupt or has to sell it. When it comes to betting it's always the high bidder that wins, so
+when betting they allow each player to bid a certain amount to beat the other player, so they can own that property. The bidding mechanic is usually a rare chance to take a part in as players or AIs can find a way to hold on to their properties till the end. 
 
 ## Final Thoughts
 The game is fun when playing with family or friends but, when it comes down to playing with AIs it can be boring and slow at times making
@@ -31,4 +32,4 @@ me lose interest in finishing the game. The game allows you to custom make the m
 When playing the game it can be boring but, in a way it allows you to play with friends from home or across the world which helps benefit the game. 
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+https://www.ign.com/articles/2008/12/06/monopoly-review-2
